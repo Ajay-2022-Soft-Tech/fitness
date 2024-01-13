@@ -1,6 +1,6 @@
 Flutter Fitness App
-A Flutter application for a fitness and nutrition app, designed to help users explore and manage different categories of healthy recipes. The app features a clean and intuitive interface, showcasing various food categories with icons and vibrant colors.
-
+**A Flutter application for a fitness and nutrition app, designed to help users explore and manage different categories of healthy recipes. The app features a clean and intuitive interface, showcasing various food categories with icons and vibrant colors.
+**
 Features:
 Categories: Explore a variety of healthy food categories, including salads, cakes, pies, and smoothies.
 
